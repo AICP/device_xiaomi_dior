@@ -83,6 +83,10 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     libhealthd.dior
 
+# CMActions
+PRODUCT_PACKAGES += \
+    CMActions
+
 # Connectivity
 PRODUCT_PACKAGES += \
     libcnefeatureconfig
