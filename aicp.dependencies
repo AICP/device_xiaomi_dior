@@ -10,13 +10,13 @@
 	"branch": "n7.1"
   },
   {
-	"repository": "CyanogenMod/android_device_qcom_common",
+	"repository": "LineageOS/android_device_qcom_common",
 	"target_path": "device/qcom/common",
 	"branch": "cm-14.1"
   },
   {
-	"repository": "TheMuppets/proprietary_vendor_qcom_binaries",
-	"target_path": "vendor/qcom/binaries",
+	"repository": "LineageOS/android_packages_resources_devicesettings",
+	"target_path": "packages/resources/devicesettings",
 	"branch": "cm-14.1"
   }
 ]
